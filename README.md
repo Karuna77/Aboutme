@@ -2,7 +2,7 @@
 ###### Introduction
 
 
-###### Personal Detial
+> ###### Personal Detial
 - Name: Miss Karuna Tunkhiew
 - Date of Birth: November 7, 1993   Age: 24
 - Height 167   Weight 57
