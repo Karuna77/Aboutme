@@ -3,9 +3,8 @@
 
 
 > ###### Personal Detial
-...
-Name: Miss Karuna Tunkhiew
-Date of Birth: November 7, 1993   Age: 24
+Name: Miss Karuna Tunkhiew\
+Date of Birth: November 7, 1993   Age: 24\
 Height 167   Weight 57
 Address: 13 M.5 Hang Dong Rd., Hang Dong District, Chiang Mai, 50230
 
