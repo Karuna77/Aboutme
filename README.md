@@ -20,7 +20,7 @@ Office Tools/Graphic Design: MS Office 2013/2010,Adobe Photoshop, Adobe illustra
 
 
 > ###### Education
-2020-Present Degree of Data Science,Falcuty of Engineer, Chiang Mai University\
+2020-Present Master Degree of Data Science,Falcuty of Engineer, Chiang Mai University\
 2016-2019 Master Degree of Computer Engineering, Chiang Mai University (Ungraduate)\
 2012-2015    Bachelor of College of Art Media and Technology, Chiang Mai University (GPA 3.26)\
 2006-2011    Secondary Education, Regina coeli college\
