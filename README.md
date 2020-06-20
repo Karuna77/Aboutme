@@ -4,7 +4,7 @@
 
 > ###### Personal Detail
 Name: Miss Karuna Tunkhiew\
-Date of Birth: November 7, 1993   Age: 25\
+Date of Birth: November 7, 1993   Age: 26\
 Height 167   Weight 57\
 Address: 13 M.5 Hang Dong Rd., Hang Dong District, Chiang Mai, 50230
 
@@ -20,14 +20,16 @@ Office Tools/Graphic Design: MS Office 2013/2010,Adobe Photoshop, Adobe illustra
 
 
 > ###### Education
-2016-Present Master Degree of Computer Engineering, Chiang Mai University\
+2020-Present Degree of Data Science,Falcuty of Engineer, Chiang Mai University\
+2016-2019 Master Degree of Computer Engineering, Chiang Mai University (Ungraduate)\
 2012-2015    Bachelor of College of Art Media and Technology, Chiang Mai University (GPA 3.26)\
 2006-2011    Secondary Education, Regina coeli college\
 2000-2005    Primary School, Anubann Chiang Mai
 
 
 > ###### Work Experience
-2018-Present  Project Manager at Artisan Digital Asia ., Ltd. Chiang Mai,Thailand\
+2020-Present Co-founder at Dudee Indeed Corporation., Ltd. Chiang Mai,Thailand\
+2018-2019  Project Manager at Artisan Digital Asia ., Ltd. Chiang Mai,Thailand\
 2017 - 2018   Project Manager of E-commerce website at Far-e., Ltd. Chiang Mai,Thailand\
 2016 - 2018   Researcher and Software Engineer in International College, Chiang Mai University. Chiang Mai,Thailand\
 2016 - Present Teacher Assistance in College of Art Media and Technology, Chiang Mai University. Chiang Mai,Thailand\
